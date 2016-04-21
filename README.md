@@ -1,0 +1,2 @@
+# Java-Employee-Database-Assignment
+This is a assignment that I had to complete as part om my Bachelors degree in Information systems in my second year of studies. It is a Java application that is designed to add,retrieve and update employee records to/from a Access database. It is a very basic Java application just testing whether I can connect to a database. The program runs smoothly and should be used within Netbeans JDK.
